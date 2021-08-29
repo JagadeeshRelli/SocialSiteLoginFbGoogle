@@ -7,6 +7,7 @@ A simple app demonstrating social media integratoin with facebook and google wit
 - used image loading library GLIDE : https://github.com/bumptech/glide 
 - configured Fb login integration through the following page: https://developers.facebook.com/docs/facebook-login/android/
 - configured Google sign in integration through the following page: https://developers.google.com/identity/sign-in/android/start-integrating
+- references 1.https://youtu.be/2PIaGpJMCNs 2.https://youtu.be/q0jAFmB-wkU
 
     
 
